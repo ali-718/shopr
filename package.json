@@ -6,7 +6,7 @@
   "dependencies": {
     "antd": "^3.23.6",
     "botframework-webchat": "^4.5.2",
-    "firebase": "^5.7.0",
+    "firebase": "^10.9.0",
     "react": "^16.10.2",
     "react-credit-card-input": "^1.1.5",
     "react-credit-cards": "^0.8.0",
